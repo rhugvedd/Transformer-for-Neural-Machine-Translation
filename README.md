@@ -30,7 +30,6 @@ To get started with this project, follow these steps:
 - TensorFlow 2.x
 - TensorFlow Datasets (TFDS)
 - NumPy
-- Matplotlib (for visualization)
 
 ## Sample Output
 
