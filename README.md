@@ -2,6 +2,8 @@
 
 This project implements a Transformer model for machine translation, specifically translating Portuguese to English using TensorFlow and Keras.
 
+[Undertook in 2023: Opened Github in 2024, Hence posting in 2024]
+
 ## Overview
 
 The Transformer model architecture, introduced in the paper "[Attention is All You Need](https://arxiv.org/abs/1706.03762)," has been widely adopted in natural language processing tasks, particularly in sequence-to-sequence tasks like machine translation.
